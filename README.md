@@ -42,6 +42,12 @@ starter-template/
 - Style the page with a new color palette
 - Add more sections or animations
 
+## Git Practice Log
+
+- Practiced creating an Issue with `gh issue create`.
+- Created a feature branch for Issue #2.
+- This change will be reviewed through a pull request before merging into `main`.
+
 ---
 
 ## 👶 Suggested Projects
