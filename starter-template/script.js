@@ -1,4 +1,3 @@
-// Function to show an alert when button is clicked
 function showMessage() {
-  alert("Hello, JavaScript!");
+  alert("Today I practiced the fork, branch, edit, and review workflow.");
 }
